@@ -2,7 +2,6 @@ import sitemap from "@astrojs/sitemap";
 import vercel from "@astrojs/vercel/serverless";
 import { defineConfig } from "astro/config";
 import UnoCSS from "unocss/astro";
-import webVitals from "@astrojs/web-vitals";
 
 // https://astro.build/config
 export default defineConfig({
@@ -18,7 +17,6 @@ export default defineConfig({
 		UnoCSS({
 			injectReset: true,
 		}),
-		webVitals(),
 	],
 	output: "hybrid",
 	adapter: vercel({

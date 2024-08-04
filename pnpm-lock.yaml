@@ -8,9 +8,6 @@ dependencies:
   '@astrojs/check':
     specifier: ^0.8.1
     version: 0.8.1(typescript@5.4.5)
-  '@astrojs/db':
-    specifier: ^0.11.7
-    version: 0.11.7
   '@astrojs/rss':
     specifier: ^4.0.7
     version: 4.0.7
@@ -20,9 +17,6 @@ dependencies:
   '@astrojs/vercel':
     specifier: ^7.7.2
     version: 7.7.2(astro@4.11.5)
-  '@astrojs/web-vitals':
-    specifier: ^0.2.1
-    version: 0.2.1(@astrojs/db@0.11.7)
   '@eliancodes/brutal-ui':
     specifier: ^0.2.6
     version: 0.2.6
@@ -281,15 +275,6 @@ packages:
       - next
       - react
       - supports-color
-    dev: false
-
-  /@astrojs/web-vitals@0.2.1(@astrojs/db@0.11.7):
-    resolution: {integrity: sha512-IbLRiN4s+6P1xEhopDSO9FAWS6Yg5kFDFOMiYmC6G1Ht0wFEERDQSh+Az1e1BiTMV4WGMfcvaArmTfZtjN7OjQ==}
-    peerDependencies:
-      '@astrojs/db': ^0.11.0
-    dependencies:
-      '@astrojs/db': 0.11.7
-      web-vitals: 4.0.1
     dev: false
 
   /@babel/code-frame@7.24.2:
