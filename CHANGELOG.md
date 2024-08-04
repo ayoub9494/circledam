@@ -27,35 +27,35 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Features
 
-* allow hybrid render ([1c5830f](https://github.com/ElianCodes/ElianCodes-frontend/commit/1c5830f98d8f309c156de7d0460c907525a2a596))
+* allow hybrid render ([1c5830f](https://github.com/CircleDAM/CircleDAM-frontend/commit/1c5830f98d8f309c156de7d0460c907525a2a596))
 
 ### 0.9.53 (2024-05-22)
 
 
 ### Features
 
-* enable hybrid rendering ([80b87e4](https://github.com/ElianCodes/ElianCodes-frontend/commit/80b87e4d286866008122b44619c50c72cad2abc2))
+* enable hybrid rendering ([80b87e4](https://github.com/CircleDAM/CircleDAM-frontend/commit/80b87e4d286866008122b44619c50c72cad2abc2))
 
 ### 0.9.52 (2024-05-22)
 
 
 ### Features
 
-* enable remote build ([891ba90](https://github.com/ElianCodes/ElianCodes-frontend/commit/891ba90a93e26a9e635fe6fc0df6077f849d5bbf))
+* enable remote build ([891ba90](https://github.com/CircleDAM/CircleDAM-frontend/commit/891ba90a93e26a9e635fe6fc0df6077f849d5bbf))
 
 ### 0.9.51 (2024-05-22)
 
 
 ### Features
 
-* update blogpost ([91af623](https://github.com/ElianCodes/ElianCodes-frontend/commit/91af6237b22254ff450012f90b99cb9eed015e19))
+* update blogpost ([91af623](https://github.com/CircleDAM/CircleDAM-frontend/commit/91af6237b22254ff450012f90b99cb9eed015e19))
 
 ### 0.9.50 (2024-05-22)
 
 
 ### Features
 
-* enable devtools ([fb769db](https://github.com/ElianCodes/ElianCodes-frontend/commit/fb769db7d85405a4aee46e88101d1b2da12861a2))
+* enable devtools ([fb769db](https://github.com/CircleDAM/CircleDAM-frontend/commit/fb769db7d85405a4aee46e88101d1b2da12861a2))
 
 ### 0.9.49 (2024-05-20)
 
@@ -112,7 +112,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Features
 
-* add nightly upgrade script & blogpost ([4305657](https://github.com/ElianCodes/ElianCodes-frontend/commit/4305657596bff24d19cdfba214029f6e3c541cb8))
+* add nightly upgrade script & blogpost ([4305657](https://github.com/CircleDAM/CircleDAM-frontend/commit/4305657596bff24d19cdfba214029f6e3c541cb8))
 
 ### 0.9.23 (2024-03-09)
 
@@ -121,7 +121,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Features
 
-* indicate if blogpost is older then 90 days ([99d4185](https://github.com/ElianCodes/ElianCodes-frontend/commit/99d4185f2dad35b5a61a470579f382c960ed4fc6))
+* indicate if blogpost is older then 90 days ([99d4185](https://github.com/CircleDAM/CircleDAM-frontend/commit/99d4185f2dad35b5a61a470579f382c960ed4fc6))
 
 ### 0.9.21 (2024-02-09)
 
@@ -130,7 +130,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Features
 
-* add sponsors ([a3638f5](https://github.com/ElianCodes/ElianCodes-frontend/commit/a3638f57e57a577f36b88a18d7efebf28921ce2b))
+* add sponsors ([a3638f5](https://github.com/CircleDAM/CircleDAM-frontend/commit/a3638f57e57a577f36b88a18d7efebf28921ce2b))
 
 ### 0.9.19 (2024-02-09)
 
@@ -153,7 +153,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Features
 
-* add some rewrites ([28a9d70](https://github.com/ElianCodes/ElianCodes-frontend/commit/28a9d70e14fb1ca247dcd60edd62620fc773d304))
+* add some rewrites ([28a9d70](https://github.com/CircleDAM/CircleDAM-frontend/commit/28a9d70e14fb1ca247dcd60edd62620fc773d304))
 
 ### 0.9.10 (2023-11-06)
 
@@ -173,12 +173,12 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### 0.9.2 (2023-09-01)
 
-### [0.9.1](https://github.com/ElianCodes/ElianCodes-frontend/compare/v0.9.0...v0.9.1) (2023-09-01)
+### [0.9.1](https://github.com/CircleDAM/CircleDAM-frontend/compare/v0.9.0...v0.9.1) (2023-09-01)
 
 ### Features
 
-- convert all images to new assets ([1ad7dd4](https://github.com/ElianCodes/ElianCodes-frontend/commit/1ad7dd4c8ab0553363561a29973d17b4cd093869))
-- upgrade Astro version ([9e7c9a2](https://github.com/ElianCodes/ElianCodes-frontend/commit/9e7c9a2fc06ffb25c96728f693802f4f25f7ad41))
+- convert all images to new assets ([1ad7dd4](https://github.com/CircleDAM/CircleDAM-frontend/commit/1ad7dd4c8ab0553363561a29973d17b4cd093869))
+- upgrade Astro version ([9e7c9a2](https://github.com/CircleDAM/CircleDAM-frontend/commit/9e7c9a2fc06ffb25c96728f693802f4f25f7ad41))
 
 ## 0.9.0 (2023-08-30)
 
@@ -188,13 +188,13 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Features
 
-- upgrade to Astro 3.0 ([d43ad71](https://github.com/ElianCodes/ElianCodes-frontend/commit/d43ad71db8edb47e876695462763bc2beaf476aa))
+- upgrade to Astro 3.0 ([d43ad71](https://github.com/CircleDAM/CircleDAM-frontend/commit/d43ad71db8edb47e876695462763bc2beaf476aa))
 
 ### 0.8.1 (2023-08-17)
 
 ### Features
 
-- add link to devs.gent ([188aed2](https://github.com/ElianCodes/ElianCodes-frontend/commit/188aed2183f742c5af63dff4cb389d025ea0740c))
+- add link to devs.gent ([188aed2](https://github.com/CircleDAM/CircleDAM-frontend/commit/188aed2183f742c5af63dff4cb389d025ea0740c))
 
 ## 0.8.0 (2023-08-08)
 
@@ -202,7 +202,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 - update README
 
-- update README ([4c62019](https://github.com/ElianCodes/ElianCodes-frontend/commit/4c6201906341de8ed9aae011b5c00cb03bfeb97a))
+- update README ([4c62019](https://github.com/CircleDAM/CircleDAM-frontend/commit/4c6201906341de8ed9aae011b5c00cb03bfeb97a))
 
 ### 0.7.8 (2023-08-08)
 

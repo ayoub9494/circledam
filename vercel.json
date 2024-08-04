@@ -1,23 +1,14 @@
 {
 	"redirects": [
-		{ "source": "/x", "destination": "https://x.com/eliancodes" },
-		{ "source": "/twitter", "destination": "https://x.com/eliancodes" },
-		{ "source": "/youtube", "destination": "https://youtube.com/@eliancodes" },
-		{ "source": "/yt", "destination": "https://youtube.com/@eliancodes" },
-		{ "source": "/github", "destination": "https://github.com/eliancodes" },
+		{ "source": "/x", "destination": "https://www.linkedin.com/in/med-ayb-alouane/" },
+		{ "source": "/twitter", "destination": "https://www.linkedin.com/in/med-ayb-alouane/" },
+		{ "source": "/youtube", "destination": "https://www.linkedin.com/in/med-ayb-alouane/" },
 		{
 			"source": "/linkedin",
-			"destination": "https://linkedin.com/in/elianvancutsem"
+			"destination": "https://www.linkedin.com/in/med-ayb-alouane/"
 		},
-		{ "source": "/mastodon", "destination": "https://m.webtoo.ls/@eliancodes" },
-		{
-			"source": "/threads",
-			"destination": "https://www.threads.net/@eliancodes"
-		},
-		{
-			"source": "/bluesky",
-			"destination": "https://bsky.app/profile/eliancodes.bsky.social"
-		},
-		{ "source": "/mail", "destination": "mailto:hello@elian.codes" }
+	
+
+		{ "source": "/mail", "destination": "mailto:alouane.ayb@gmail.com" }
 	]
 }

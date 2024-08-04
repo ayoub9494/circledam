@@ -4,20 +4,20 @@ import type { Social } from "../../types/Social";
 import MobileNavigation from "./MobileNavigation.astro";
 
 const navigationItems = [
-	{ name: "Home", url: "/" },
+	{ name: "Accueil", url: "/" },
 	{ name: "Blog", url: "/blog/" },
-	{ name: "Events", url: "/events/" },
+	// { name: "Events", url: "/events/" },
 ];
 
 const socialIcons = [
 	{
-		name: "GitHub",
-		url: "https://www.elian.codes/github",
-		icon: "i-uil-github",
+		name: "Youtube",
+		url: "https://www.linkedin.com/in/med-ayb-alouane/",
+		icon: "i-uil-youtube",
 	},
 	{
 		name: "Twitter",
-		url: "https://www.elian.codes/twitter",
+		url: "https://www.linkedin.com/in/med-ayb-alouane/",
 		icon: "i-uil-twitter",
 	},
 	{ name: "RSS", url: "/blog.xml", icon: "i-uil-rss" },
@@ -33,7 +33,7 @@ const { pageTitle } = Astro.props;
 <header class="border-b-4 border-black flex justify-between p-6 items-center">
 	{pageTitle && <h1 class="hidden">{pageTitle}</h1>}
 	<a href="/" title="Back to Home">
-		<p class="righteous md:text-5xl">ElianCodes</p>
+		<p class="righteous md:text-5xl">CircleDAM</p>
 	</a>
 	<nav class="hidden md:inline-block">
 		<h2 class="hidden">Navigation</h2>
@@ -58,7 +58,7 @@ const { pageTitle } = Astro.props;
 							href={item.url}
 							class="hover:text-green hover:underline transition-all duration-150 ease-in-out"
 							target="_blank"
-							title={`'See @ElianCodes on ${item.name}`}
+							title={`'See @eliancodes on ${item.name}`}
 						>
 							<div class:list={[item.icon, "w-6 h-6"]} />
 						</a>

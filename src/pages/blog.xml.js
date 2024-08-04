@@ -4,8 +4,8 @@ import { getCollection } from "astro:content";
 export async function GET(context) {
 	const blog = await getCollection("blog");
 	return rss({
-		title: "Elian Van Cutsem",
-		description: "Programming and Frontend related articles and guides",
+		title: "Med Ayoub Alouane",
+		description: "Articles sur la politique, l'économie et la géopolitique",
 		stylesheet: false,
 		site: context.site,
 		items: blog.map((post) => ({
@@ -15,6 +15,6 @@ export async function GET(context) {
 			link: `/blog/${post.slug}/`,
 		})),
 		customData: "<language>en-us</language>",
-		canonicalUrl: "https://www.elian.codes",
+		canonicalUrl: "https://www.circledam.com",
 	});
 }

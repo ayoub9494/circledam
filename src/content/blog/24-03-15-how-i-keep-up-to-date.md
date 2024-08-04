@@ -1,99 +1,26 @@
 ---
-title: How I keep everything up to date
-description: "Some thoughts on how I keep my projects, dev env and repositories up to date."
-pubDate: 2024-03-15 08:30
-author: Elian Van Cutsem
+title: Aladdin l'IA de BlackRock
+description: "L'IA est devenue incontournable dans les produits numériques, notamment avec l'exemple de ChatGPT. BlackRock utilise Aladdin pour gérer 20 % des investissements mondiaux."
+pubDate: 2024-08-04 22:40
+author: Med Ayoub Alouane
 tags:
-  - Open Source
-  - Tooling
-  - Web development
-imgUrl: "./images/up-to-date.jpeg"
+  - Finance
+  - Economie
+  - Politique
+imgUrl: "./images/blog-cover.jpeg"
 layout: "@layouts/BlogPost.astro"
 ---
 
-# How I keep everything up to date
+# Aladdin l'IA de BlackRock
 
-I get asked a lot of questions all the time. One of the most returning questions is how I keep my projects, dev env and repositories up to date. I thought it would be a good idea to write a little blog post about it, so I can point people to it.
+Parlons de l’IA. Dernièrement, c’est le sujet principal. Tout le monde doit intégrer un élément d'IA dans son produit numérique. Tu as même parfois des clients qui utilisent un service donné (produit) et qui appellent le service client en disant : et l’IA ? Ils ne comprennent pas forcément la technologie en profondeur, mais ce qui les intéresse, c’est qu’elle facilite les choses et automatise certaines tâches. L’année 2020 était marquée par le COVID et aussi par ChatGPT. Dans la conscience collective, ChatGPT reste le premier outil d'IA accessible à tous. Ce n’est pas complètement faux, car ChatGPT a plus ou moins été le premier outil accessible par tout le monde, mais bien sûr, ce n’était pas le premier.
 
-## Overall updates
+## Monopole?
 
-I have a script that I run every now and then to update all my packages, tools and dependencies. It's a combination of updating brew packages, gcloud, NPM packages, PNPM, composer packages (yes, I've used my fair amount of PHP) and Bun.
+C’est complètement fou de penser qu’une technologie sera directement accessible par le public à sa sortie. Bien sûr que les outils d'IA existaient, mais il y avait une certaine monopolisation par des organismes spécifiques. On peut penser aux organismes militaires et financiers. Aujourd’hui, dans cet article, nous allons nous concentrer sur BlackRock, que l’on peut considérer comme l’organisme financier le plus influent au monde, avec la gestion de 20 % des investissements mondiaux, équivalent à 9 trillions de dollars d'actifs. Ce n’est pas rien. Il sera nécessaire d’étudier leur cas d’IA.
 
-If I'm missing something here, let me know! I'd love some thoughts!
+## Pour Finir
 
-```sh
-echo 'updating brew packages'
-brew update
+Aladdin est un logiciel super important utilisé par la grande entreprise BlackRock pour gérer beaucoup d'argent et d'investissements. Aladdin aide à gérer plus de 20 % de tout l'argent investi dans le monde entier. Non seulement cela, mais Aladdin effectue 70 % des transactions d'achats et de ventes très rapides aux États-Unis sans que personne n'ait besoin d'intervenir.
 
-echo 'upgrading brew packages'
-brew upgrade
-
-echo 'updating gcloud'
-gcloud components update
-
-echo 'update NPM packages'
-npm update -g
-
-echo 'update PNPM'
-pnpm add -g pnpm@latest
-
-echo 'update composer packages'
-composer global update
-
-echo 'updating Bun'
-bun upgrade
-```
-
-[Here is a Gist of my overall update script](https://gist.github.com/ElianCodes/8a0d2e0ca29e0faadfa4a2b9bc6b30e6)
-
-## Upgrade my Astro project repos
-
-I have a lot of Astro projects. Keeping them all up to date, is a very annoying and time consuming task. That's why I came up with a really easy (and kinda stupid) solution. I have a nightly GitHub action that runs a script to update all my Astro projects. It's a simple script that runs `pnpm dlx @astrojs/upgrade` and creates a PR with the changes and assigns me, that way I get it in my notifications.
-
-In the case you trust your tech good enough, you can commit straight to main, but I like to review the changes first.
-
-```yaml
-name: nightly
-
-on:
-  schedule:
-    - cron: '0 0 * * *'
-
-jobs:
-  upgrade:
-    runs-on: ubuntu-latest
-    env:
-      NODE_OPTIONS: '--max_old_space_size=4096'
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      - name: Setup pnpm
-        uses: pnpm/action-setup@v2
-        with:
-          version: 8
-
-      - name: Setup Node
-        uses: actions/setup-node@v3
-        with:
-          node-version: 18
-          cache: pnpm
-
-      - name: Install dependencies
-        run: pnpm install
-
-      - name: Upgrade Astro
-        run: pnpm dlx @astrojs/upgrade --yes
-
-      - name: PR Changes
-        uses: peter-evans/create-pull-request@v4
-        with:
-          branch: ci/update-astro
-          commit-message: 'ci: update Astro'
-          assignees: eliancodes
-          title: 'ci: update Astro'
-          body: Update Astro and packages to latest version
-          labels: ci
-```
-
-[Here is a Gist of my nightly "update Astro" script](https://gist.github.com/ElianCodes/9ac4011dac4172d75c94645e66c7c7f6)
+Aladdin entre dans la catégorie des plateformes numériques de gestion des actifs (DAMP). On peut dire que c’est la plateforme la plus développée au monde. Rien n’est surprenant vu qu'elle est conçue par le fonds d’investissement le plus important au monde.

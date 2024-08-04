@@ -13,13 +13,13 @@ const height = 630;
 const width = 1200;
 
 export const GET: APIRoute = async () => {
-	const link = "https://www.elian.codes";
+	const link = "https://www.circledam.com";
 	const html = toReactElement(`
   <div style="background-color: white; display: flex; flex-direction: column; height: 100%; padding: 3rem; width: 100%">
     <div style="display:flex; height: 100%; width: 100%; background-color: white; border: 6px solid black; border-radius: 0.5rem; padding: 2rem; filter: drop-shadow(6px 6px 0 rgb(0 0 0 / 1));">
       <div style="display: flex; flex-direction: column; justify-content: space-between; width: 100%; filter: drop-shadow()">
         <div style="display: flex; flex-direction: column; gap: 0.5rem;">  
-          <p style="font-size: 48px;">ElianCodes</p>
+          <p style="font-size: 48px;">CircleDAM</p>
           <p style="font-size: 38px;">Team DX <span>@Astro</span></p>
           <p style="font-size: 28px;">BeJS & React Brussels ambassador</p>
           <p style="font-size: 28px;">meetup organizer & speaker</p>
@@ -27,7 +27,7 @@ export const GET: APIRoute = async () => {
         </div>
         <div style="display: flex; justify-content: space-between; align-items: baseline; position: absolute; bottom: -0.5rem; width: 100%">
           <p style="font-size: 32px">${link}</p>
-          <img src="https://www.elian.codes/assets/img/elian.jpg" width="200px" height="200px" style="border: 3px solid black; border-radius: 0.5rem;" />
+          <img src="https://www.circledam.com/assets/img/ayoub.png" width="200px" height="200px" style="border: 3px solid black; border-radius: 0.5rem;" />
         </div>
       </div>
     </div>

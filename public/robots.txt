@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
-Host: https://www.elian.codes/
-Sitemap: https://www.elian.codes/sitemap-index.xml
+Host: https://www.circledam.com/
+Sitemap: https://www.circledam.com/sitemap-index.xml
