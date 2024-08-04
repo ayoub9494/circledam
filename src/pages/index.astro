@@ -1,0 +1,20 @@
+---
+import RecentBlogPosts from "@components/generic/RecentBlogPosts.astro";
+import AboutMe from "@components/home/AboutMe.astro";
+import Description from "@components/home/Description.astro";
+import MobileSocials from "@components/home/MobileSocials.astro";
+import Layout from "@layouts/Default.astro";
+---
+
+<Layout
+	title="Home"
+	pageTitle="Elian Codes"
+	description="Team DX @Astro | devs.gent meetup organizer | BeJS & React Brussels household figure | public speaker | Ex. vBridge"
+>
+	<main class="bg-green p-6">
+		<MobileSocials />
+		<AboutMe />
+		<Description />
+		<RecentBlogPosts />
+	</main>
+</Layout>
