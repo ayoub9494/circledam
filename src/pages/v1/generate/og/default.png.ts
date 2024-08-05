@@ -27,7 +27,7 @@ export const GET: APIRoute = async () => {
         </div>
         <div style="display: flex; justify-content: space-between; align-items: baseline; position: absolute; bottom: -0.5rem; width: 100%">
           <p style="font-size: 32px">${link}</p>
-          <img src="https://www.circledam.com/assets/img/ayoub.png" width="200px" height="200px" style="border: 3px solid black; border-radius: 0.5rem;" />
+          <img src="https://www.circledam.com/assets/img/ayoub.jpg" width="200px" height="200px" style="border: 3px solid black; border-radius: 0.5rem;" />
         </div>
       </div>
     </div>
