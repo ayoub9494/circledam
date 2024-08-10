@@ -13,8 +13,6 @@ layout: "@layouts/BlogPost.astro"
 
 # l’IA BlackRock: Aladdin
 
-[New Article](https://www.notion.so/New-Article-4068c530b1e74304ad4fd289b7f57da4?pvs=21)
-
 ### Introduction : L'ère de l'IA et son impact global
 
 Parlons de l’IA. Dernièrement, c’est le sujet principal. Tout le monde doit intégrer un élément d'IA dans son produit numérique. Tu as même parfois des clients qui utilisent un service donné (produit) et qui appellent le service client en disant : et l’IA ? Ils ne comprennent pas forcément la technologie en profondeur, mais ce qui les intéresse, c’est qu’elle facilite les choses et automatise certaines tâches. L’année 2020 était marquée par le COVID et aussi par ChatGPT. Dans la conscience collective, ChatGPT reste le premier outil d'IA accessible à tous. Ce n’est pas complètement faux, car ChatGPT a plus ou moins été le premier outil accessible par tout le monde, mais bien sûr, ce n’était pas le premier.
@@ -44,7 +42,7 @@ Ce nom précise bien la capacité d'Aladdin à gérer et analyser une large gamm
 
 Ce logiciel est considéré comme une plateformes numériques de gestion d'actifs (DAMP). Dans le monde de la finance y on n’a pas que Aladdin, y a bien d’autres concurrents sur lesquels on va jeter un coup d’oeil après dans notre article.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/6d9a66fd-9300-436b-8245-5f1d4ed3ef0b/17fc26e4-c4bf-4dee-bae3-f18d0603716f/Untitled.png)
+![Description de la technologie Aladdin](../../assets/blog/24-08-10/aladdin-technologie.png)
 
 ### L'évolution d'Aladdin : Acquisitions et partenariats stratégiques
 
@@ -60,7 +58,7 @@ En janvier 2021, **BlackRock a réalisé un investissement stratégique dans Cla
 
 L’année 2021 n’a pas encore terminé et BlackRock en juin a annoncé un partenariat stratégique avec Cassini Systems, intégrant leurs capacités d'analyse des marges dans la plateforme Aladdin. Cassini apporte des outils spécialisés qui aident à mieux comprendre et gérer les coûts liés aux produits financiers complexes appelés dérivés. Ces outils permettent aux utilisateurs d'Aladdin de prévoir et contrôler les dépôts de garantie nécessaires pour les transactions en prenant de meilleures décisions avant et après celles-ci , aussi utiliser leur argent plus efficacement toute en respectant les nouvelles règles financières mises en place après la crise de 2008. BlackRock sait très bien que le marché mondial de l'IA devrait atteindre 1 811,8 milliards de dollars d'ici 2030 et ils se préparent pour ça.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/6d9a66fd-9300-436b-8245-5f1d4ed3ef0b/0eb258b1-fe95-4672-926b-893f753e1d87/Untitled.png)
+![L'évolution d'Aladdin](../../assets/blog/24-08-10/evolution-aladdin.png)
 
 ### Comparaison avec d’autres solutions du marché
 
@@ -88,15 +86,13 @@ Guillaume Lesage, directeur des opérations d'Amundi à Paris et responsable de 
 
 Alors la on a **Amundi Technologies** est une entreprise française, c'est une filiale d'Amundi, la plus grande société de gestion d'actifs en Europe, qui a été fondée en 2010 à la suite de la fusion des activités de gestion d'actifs de Crédit Agricole et de Société Générale, à travers sa plateforme ALTO qui se différencie par sa connaissance approfondie de la réglementation financière européenne (qui n’est pas rien bien sur) et sur sa capacité à répondre aux besoins variés de ses clients. La plateforme ALTO avec une gestion d’actifs de 4 trillion de dollars et plus que 60 clients est conçue spécifiquement pour le cloud et aussi AI-driven, ce qui permet une plus grande évolutivité et une plus grande flexibilité. Elle intègre différents services comme mentionnée par son CTO. 
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/6d9a66fd-9300-436b-8245-5f1d4ed3ef0b/ca436375-b401-40cd-9d55-85f395d3cd4d/Untitled.png)
+![Comparaison avec d’autres solutions du marché](../../assets/blog/24-08-10/comparaison-marche.png)
 
-BlackRock conseille la BCE, la FED , JPMorgan, Apple… à l’aide de son monstre Aladdin,  
-
-BlackRock, avec Aladdin et sa position de gestionnaire de fonds le plus dominant au monde avec plus de 10 trillions de dollars d’actifs gérés, se place devant State Street Corporation, qui gère plus de 4 trillions de dollars d’actifs. Même si State Street Alpha a plus d’actifs sous gestion grâce à l’acquisition de Charles River Development, Aladdin reste la solution la plus complète tout en restant unifiée et centralisée.
+BlackRock conseille la BCE, la FED , JPMorgan, Apple… à l’aide de son monstre Aladdin, avec Aladdin et sa position de gestionnaire de fonds le plus dominant au monde avec plus de 10 trillions de dollars d’actifs gérés, se place devant State Street Corporation, qui gère plus de 4 trillions de dollars d’actifs. Même si State Street Alpha a plus d’actifs sous gestion grâce à l’acquisition de Charles River Development, Aladdin reste la solution la plus complète tout en restant unifiée et centralisée.
 
 Aladdin fonctionne sur un traitement de bout en bout, c'est-à-dire en mode automatique, mais ce qui est beaucoup plus intéressant, c'est que dans la partie composante de la plateforme technologique se trouve la base de données de recherche Galileo™. Galileo est une base de données universitaire (scientifique) de l'État de Géorgie aux États-Unis, le projet est une initiative du Conseil d'administration du Système universitaire de Géorgie. Pour comprendre, c'est l'accès à des centaines de bases de données électroniques, tant de nature scientifique que financière. C'est-à-dire qu'il s'agit de la plus grande base de données complète pour la formation de l'IA qui fonctionne en mode continu.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/6d9a66fd-9300-436b-8245-5f1d4ed3ef0b/15afba6d-25a6-4cc2-8243-3caddea761c8/Untitled.png)
+![La base de données de recherche Galileo™](../../assets/blog/24-08-10/galileo.png)
 
 Y a encore un autre aspect, l'utilisation généralisée d'Aladdin façonne la position de BlackRock comme un centre autour duquel gravite le réseau financier, reliant les propriétaires d'actifs, les investisseurs institutionnels, les entreprises industrielles et financières. Cela est illustré par le fait que **BlackRock était souvent l'un des plus grands actionnaires des entreprises financières et non financières qui utilisaient Aladdin pour gérer leurs propres actifs ou ceux de leurs clients**, et avait des représentants dans les conseils d'administration de ces entreprises.
 
@@ -131,6 +127,8 @@ Le théoricien Ian Bremmer et Mustafa Suleyman, cofondateur de DeepMind, ont aff
 
 C'était le premier article sur le sujet, et il est déjà assez long. Au départ, je n'avais pas prévu d'écrire une deuxième partie, mais c'est désormais nécessaire. Dans cette seconde partie, nous allons examiner en profondeur l'impact d'Aladdin et de BlackRock sur la politique, l'économie et la géopolitique. Nous chercherons également à identifier des moyens de résister à cette domination.
 
+
+### Sources
 
 [BlackRock Enriches Aladdin Platform’s Derivatives Capabilities with Cassini Partnership - Cassini](https://cassini.com/news/blackrock-enriches-aladdin-platforms-derivatives-capabilities-with-cassini-partnership/)
 
