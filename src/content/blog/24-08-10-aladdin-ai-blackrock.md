@@ -7,19 +7,19 @@ tags:
   - Finance
   - Economie
   - Politique
-imgUrl: "./images/blog-cover.jpeg"
+imgUrl: "./images/2024-08-04-cover.webp"
 layout: "@layouts/BlogPost.astro"
 ---
 
 # Aladdin: La nouvelle main invisible du marché
 
-### Introduction : L'ère de l'IA et son impact global
+## Introduction : L'ère de l'IA et son impact global
 
 Parlons de l’IA. Dernièrement, c’est le sujet principal. Tout le monde doit intégrer un élément d'IA dans son produit numérique. Tu as même parfois des clients qui utilisent un service donné (produit) et qui appellent le service client en disant : et l’IA ? Ils ne comprennent pas forcément la technologie en profondeur, mais ce qui les intéresse, c’est qu’elle facilite les choses et automatise certaines tâches. L’année 2020 était marquée par le COVID et aussi par ChatGPT. Dans la conscience collective, ChatGPT reste le premier outil d'IA accessible à tous. Ce n’est pas complètement faux, car ChatGPT a plus ou moins été le premier outil accessible par tout le monde, mais bien sûr, ce n’était pas le premier.
 
 Selon un rapport de Grand View Research, Inc., **la taille du marché mondial de l'intelligence artificielle (IA) atteindra 1 811,8 milliards de dollars d'ici 2030**. Toutes les entreprises cherchent à mettre en œuvre des solutions basées sur l'intelligence artificielle pour améliorer leurs processus de travail, en accélérant des traitements et en automatisant des tâches. Ces entreprises interviennent dans plusieurs domaines : les banques, le commerce, le trading, l'industrie et aussi des domaines sensibles comme la santé.
 
-### BlackRock : Le géant financier à l'ère de l'IA
+## BlackRock : Le géant financier à l'ère de l'IA
 
 C’est complètement fou de penser qu’une technologie sera directement accessible par le public à sa sortie. Bien sûr que les outils d'IA existaient, mais il y avait une certaine monopolisation par des organismes spécifiques. On peut penser aux organismes militaires et financiers. Aujourd’hui, dans cet article, nous allons nous concentrer sur **BlackRock, que l’on peut considérer comme l’organisme financier le plus influent au monde, avec** **10,5 trillions de dollars d'actifs sous gestion (*assets under management (AUM)*)**, avec une augmentation de 1,4 trillion de dollars chaque année.
 
@@ -27,7 +27,7 @@ Parfois, les gens peuvent confondre le rôle ou la mission de BlackRock. Tout si
 
 Alors, ce géant doit posséder des outils pour gérer, d’où notre article sur Aladdin, leur outil IA. Il serait nécessaire de l’étudier pour bien comprendre l’impact de l’IA sur notre quotidien, et voir que ce n’est pas seulement un outil pour reformuler nos emails et les corriger.
 
-### Aladdin : Le cœur technologique de BlackRock
+## Aladdin : Le cœur technologique de BlackRock
 
 Aladdin est un logiciel super important utilisé par le géant BlackRock pour gérer beaucoup d'argent et d'investissements. **Aladdin gère plus de 21,6 trillions de dollars** . Non seulement cela, mais Aladdin effectue 70 % des transactions d'achats et de ventes très rapides aux États-Unis sans que personne n'ait besoin d'intervenir.
 
@@ -44,23 +44,22 @@ Ce logiciel est considéré comme une plateformes numériques de gestion d'actif
 
 ![Description de la technologie Aladdin](../../assets/blog/24-08-10/aladdin-technologie.png)
 
-### L'évolution d'Aladdin : Acquisitions et partenariats stratégiques
-
-**L'acquisition d'eFront (2019)**
+## L'évolution d'Aladdin : Acquisitions et partenariats stratégiques
+### L'acquisition d'eFront (2019)
 
 Aladdin est une plateforme qui était breveté en 1999, mais elle n’a pas cessé de grandir, s’enrichir, avec d’autres systems, par exemple, en 2019, **BlackRock a acquis eFront**, une société française spécialisée dans les solutions logicielles pour la gestion des investissements alternatifs, tels que les fonds de private equity, les biens immobiliers et les infrastructures. Cette acquisition a été stratégique pour BlackRock, car elle a permis d'intégrer les technologies avancées d'eFront dans la plateforme Aladdin. Avant l'acquisition, Aladdin était principalement axé sur les actifs traditionnels comme les actions et les obligations. L'intégration des technologies d'eFront a permis à Aladdin de mieux gérer les actifs alternatifs, offrant ainsi une gamme plus diversifiée de services à ses utilisateurs.
 
-**L'investissement dans Clarity AI (2021)**
+### L'investissement dans Clarity AI (2021)
 
 En janvier 2021, **BlackRock a réalisé un investissement stratégique dans Clarity AI**, une solution décrite comme une "plateforme d'analyse et de traitement de données de durabilité", cette plateforme possède des technologies brevetées et des capacités de traitement de données dans le domaine de l'impact environnemental et social. Elle peut analyser plus de 30 000 entreprises, couvrant près de 200 pays, et bien sur, BlackRock intègre les capacités de Clarity AI directement dans Aladdin. Cette intégration dans la plateforme Aladdin permet aux investisseurs de mieux comprendre et gérer les risques de durabilité, en répondant aux nouvelles obligations de divulgation réglementaires.
 
-**Le partenariat avec Cassini Systems (2021)**
+### Le partenariat avec Cassini Systems (2021)
 
 L’année 2021 n’a pas encore terminé et BlackRock en juin a annoncé un partenariat stratégique avec Cassini Systems, intégrant leurs capacités d'analyse des marges dans la plateforme Aladdin. Cassini apporte des outils spécialisés qui aident à mieux comprendre et gérer les coûts liés aux produits financiers complexes appelés dérivés. Ces outils permettent aux utilisateurs d'Aladdin de prévoir et contrôler les dépôts de garantie nécessaires pour les transactions en prenant de meilleures décisions avant et après celles-ci , aussi utiliser leur argent plus efficacement toute en respectant les nouvelles règles financières mises en place après la crise de 2008. BlackRock sait très bien que le marché mondial de l'IA devrait atteindre 1 811,8 milliards de dollars d'ici 2030 et ils se préparent pour ça.
 
 ![L'évolution d'Aladdin](../../assets/blog/24-08-10/evolution-aladdin.png)
 
-### Comparaison avec d’autres solutions du marché
+## Comparaison avec d’autres solutions du marché
 
 Les systèmes de gestion de trading et d'investissement ont évolué considérablement depuis les années 1990, passant de simples outils de traitement des ordres à des systèmes sophistiqués dotés d'analyses avancées et d'exécutions en temps réel. Aujourd'hui, ils jouent un rôle essentiel dans la gestion de fonds en offrant des fonctionnalités spécialisées pour chaque aspect du processus financier.
 
@@ -103,7 +102,7 @@ De plus, ALADDIN toute en restant un system unifié il proposent des diverses so
 - **Aladdin Climate**: indicateurs de risque ajustés au climat et transition vers une économie à faible émission de carbone + tests de stress virtuels des actifs.
 - **Aladdin Wealth**: gestion institutionnelle pour les distributeurs de détail, comprend un ensemble de données pour analyser chaque portefeuille individuellement et fournir des conseils numériques personnalisés, en d'autres termes des conseils de l'IA.
 
-### Analyse de l’impact de Aladdin dans le monde
+## Analyse de l’impact de Aladdin dans le monde
 
 En 2009, le département du Trésor américain a fait appel aux solutions de BlackRock pour évaluer les actifs en difficulté détenus par d'importantes institutions touchées par la crise financière de 2007-2008. Fondé en 2008, le Financial Markets Advisory Group de BlackRock offre une aide globale aux institutions financières et aux gouvernements. BlackRock a fourni des services à d'autres financiers et autorités gouvernementales pendant la crise en utilisant son outil de gestion des risques, Aladdin.
 
@@ -128,7 +127,7 @@ Le théoricien Ian Bremmer et Mustafa Suleyman, cofondateur de DeepMind, ont aff
 C'était le premier article sur le sujet, et il est déjà assez long. Au départ, je n'avais pas prévu d'écrire une deuxième partie, mais c'est désormais nécessaire. Dans cette seconde partie, nous allons examiner en profondeur l'impact d'Aladdin et de BlackRock sur la politique, l'économie et la géopolitique. Nous chercherons également à identifier des moyens de résister à cette domination.
 
 
-### Sources
+## Sources
 
 [BlackRock Enriches Aladdin Platform’s Derivatives Capabilities with Cassini Partnership - Cassini](https://cassini.com/news/blackrock-enriches-aladdin-platforms-derivatives-capabilities-with-cassini-partnership/)
 
