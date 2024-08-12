@@ -1,6 +1,6 @@
 ---
-title: "Aladdin IA: La nouvelle main invisible du marché"
-description: "L'IA est devenue incontournable dans les produits numériques, notamment avec l'exemple de ChatGPT. BlackRock utilise Aladdin pour gérer 21.6 trillions de dollards d'actifs."
+title: "Aladdin IA: La main invisible du marché"
+description: "BlackRock, que l’on peut considérer comme l’organisme financier le plus influent au monde, avec 10,5 trillions de dollars d'actifs sous gestion utilise Aladdin pour gérer 21.6 trillions de dollards d'actifs."
 pubDate: 2024-08-04 22:40
 author: Med Ayoub Alouane
 tags:
@@ -11,7 +11,7 @@ imgUrl: "./images/2024-08-04-cover.webp"
 layout: "@layouts/BlogPost.astro"
 ---
 
-# Aladdin IA: La nouvelle main invisible du marché
+# Aladdin IA: La main invisible du marché
 
 ## Introduction : L'ère de l'IA et son impact global
 
